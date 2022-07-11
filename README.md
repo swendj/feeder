@@ -24,7 +24,7 @@ If that was successful, you can see the web frontend as shown in the image galle
 - PCB, buttons, LED, some resistors
 - Homemade feeding tower
 
-### Images
+### Figures
 Images in the image directory are:
 
 feeder.jpg    - working feeder <br>
