@@ -1,4 +1,4 @@
-# feeder
+# automatic feeder
 Software for an automatic feeder for the aquarium, realized with Raspberry Pi and Python.
 
 "feed.py" is the main control script on the Pi. Putting that in a separate directory ("/home/pi/scripts"), you can control the feeder using the Pi's crontab as follows: 
