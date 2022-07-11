@@ -16,9 +16,11 @@ After installation of a HTML server (Lighty) on the Pi, please place "index.php"
 
 Images in the image directory are:
 
-feeder.jpg    - working feeder
-scheme.jpg    - connection scheme
-mechanics.jpg - mechanics in the feeding towers
+feeder.jpg    - working feeder <br>
+scheme.jpg    - connection scheme <br>
+mechanics.jpg - mechanics in the feeding towers <br>
+
+
 
 
 
