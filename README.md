@@ -13,6 +13,7 @@ Software for an automatic fish feeder for the aquarium, realized with Raspberry 
 
 ### Local web
 After installation of a HTML server (Lighty) on the Pi, please place "index.php" and "action.txt" in its document root "var/www/html".
+If that was successful, you can see the web frontend as shown in the image gallery.
 
 ### Images
 Images in the image directory are:
