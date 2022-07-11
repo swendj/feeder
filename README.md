@@ -1,5 +1,5 @@
 # Automatic feeder
-Software for an automatic fish feeder for the aquarium, realized with Raspberry Pi and Python3, controlling a servo MG90 and PiCam. 
+This is software for an automatic fish feeder for the aquarium, realized with Raspberry Pi and Python3, controlling a servo MG90 and PiCam. 
 
 "feed.py" is the main control script on the Pi. Putting that in a separate directory ("/home/pi/scripts"), you can control the feeder using the Pi's crontab as follows: 
 
@@ -14,6 +14,15 @@ Software for an automatic fish feeder for the aquarium, realized with Raspberry 
 ### Local web
 After installation of a HTML server (Lighty) on the Pi, please place "index.php" and "action.txt" in its document root "var/www/html".
 If that was successful, you can see the web frontend as shown in the image gallery.
+
+### Parts list
+- Raspberry Pi Zero W (1/2)
+- PiCam R1.3 or higher
+- RPi and cam housing
+- PiCam connection cabel
+- Servo (MG90)
+- PCB, buttons, LED, some resistors
+- Homemade feeding tower
 
 ### Images
 Images in the image directory are:
