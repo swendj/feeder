@@ -3,7 +3,7 @@ Software for an automatic feeder for the aquarium, realized with Raspberry Pi an
 
 "feed.py" is the main control script on the Pi. Putting that in a separate directory ("/home/pi/scripts"), you can control the feeder using the Pi's crontab as follows: 
 
-.............................................................
+..................................................................................
 
 #sunday till friday
 
@@ -17,7 +17,7 @@ Software for an automatic feeder for the aquarium, realized with Raspberry Pi an
 
 */1 * * * *  python3 /home/pi/scripts/feed.py 0
 
-.............................................................
+..................................................................................
 
 
 After installation of a HTML server (Lighty) on the Pi, please place "index.php" and "action.txt" in its document root "var/www/html".   
