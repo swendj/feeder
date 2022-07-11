@@ -12,4 +12,13 @@ Software for an automatic fish feeder for the aquarium, realized with Raspberry 
 */1 * * * *  python /home/pi/scripts/feed.py 0 <br>
 .................................................................................. <br>
 
-After installation of a HTML server (Lighty) on the Pi, please place "index.php" and "action.txt" in its document root "var/www/html".   
+After installation of a HTML server (Lighty) on the Pi, please place "index.php" and "action.txt" in its document root "var/www/html".
+
+Images in the image directory are:
+
+feeder.jpg    - working feeder
+scheme.jpg    - connection scheme
+mechanics.jpg - mechanics in the feeding towers
+
+
+
