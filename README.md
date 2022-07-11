@@ -6,8 +6,7 @@ Software for an automatic feeder for the aquarium, realized with Raspberry Pi an
 ..................................................................................
 
 #sunday till friday
-
-_ _ 0 17 * * 0-5 python3 /home/pi/scripts/feed.py 1
+0 17 * * 0-5 python3 /home/pi/scripts/feed.py 1
 
 #saturday
 
