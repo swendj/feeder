@@ -20,6 +20,7 @@ Images in the image directory are:
 feeder.jpg    - working feeder <br>
 scheme.jpg    - connection scheme <br>
 mechanics.jpg - mechanics in the feeding towers <br>
+web.jpg       - web frontend <br>
 
 
 
