@@ -19,9 +19,9 @@ If that was successful, you can see the web frontend as shown in the image galle
 Images in the image directory are:
 
 feeder.jpg    - working feeder <br>
-scheme.jpg    - connection scheme <br>
-mechanics.jpg - mechanics in the feeding towers <br>
-web.jpg       - web frontend <br>
+scheme.png    - connection scheme <br>
+mechanics.png - mechanics in the feeding towers <br>
+web.png       - web frontend <br>
 
 
 
