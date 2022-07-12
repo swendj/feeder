@@ -14,9 +14,9 @@ This is software for an automatic fish feeder for the aquarium, realized with Ra
 #every minute <br>
 */1 * * * *  python /home/pi/scripts/feed.py 0 <br>
 
-### Local web
-After installation of a HTML server (Lighty) on the Pi, please place "index.php" and "action.txt" in its document root "var/www/html".
-If that was successful, you can see the web frontend as shown in the image gallery.
+### Web
+After installation of a HTML server (Lighty) on the Pi, please place "index.php" and "action.txt" in its document root "var/www/html". If that was successful, easily type the IP address of your Pi in the browsers bar and you should see the web frontend as shown in the image gallery.
+If internet access is desired, your Pi must be enabled in the router and given a permanent IP address using a DynDNS service.
 
 ### Parts list
 - Raspberry Pi Zero W (1/2)
